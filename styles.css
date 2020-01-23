@@ -1,0 +1,74 @@
+.header1 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+h1 {
+    color: black;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+    font-family: 'IM Fell Great Primer', serif;
+}
+
+
+
+.pic2 {
+    width: 220px;
+    height: 220px;
+    border: solid 2px grey;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pic3 {
+    width: 220px;
+    height: 220px;
+    border: solid 2px grey;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: flex-start;
+}
+
+.pic4 {
+    width: 220px;
+    height: 220px;
+    border: solid 2px grey;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: flex-start;
+}
